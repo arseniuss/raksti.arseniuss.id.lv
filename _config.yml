@@ -57,6 +57,13 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      categories: posts
+
 ordered_collections:
   - pages
   - posts

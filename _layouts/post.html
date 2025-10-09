@@ -50,8 +50,13 @@
                             <i class="fa fa-angle-right"></i>
                         </a>
                     {% endif %}
+
+                    <div class="page-footer">
+                    <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}. Visas tiesības aizsargātas. Atļauts pārpublicēt tikai ar autora rakstisku atļauju. </p>
+                    </div>
                 </div>
             </div>
+
 
             <script>
             var gitbook = gitbook || [];
@@ -60,6 +65,8 @@
             });
             </script>
         </div>
+
+
 
         {%- include footer.html -%}
 
