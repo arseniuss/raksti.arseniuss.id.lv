@@ -21,7 +21,9 @@
                     {{ content }}
 
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
+                        {% if page.comments != false %}
                         {%- include disqus.html -%}
+                        {% endif %}
                     {%- endif -%}
                 </section>
             </div>

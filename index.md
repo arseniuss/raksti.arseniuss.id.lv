@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Arsa raksti
+comments: false
 ---
 
 {% for post in site.posts limit:10 %}
