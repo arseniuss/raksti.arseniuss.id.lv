@@ -1,0 +1,19 @@
+{% if site.disqushandler && page.disqus != false %}
+  <br/><br/><h3>Komentāri:</h3>
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://{{ site.disqushandler }}.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Lūdzu ieslēdziet JavaScript, lai skatītu <a href="https://disqus.com/?ref_noscript" rel="nofollow">Disqus komentārus.</a></noscript>
+  <a href="https://disqus.com" class="dsq-brlink"><span class="logo-disqus">Disqus komentāri</span></a>
+{% endif %}
