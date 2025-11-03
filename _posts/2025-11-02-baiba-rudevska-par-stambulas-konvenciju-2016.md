@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baibas Rudevkas 2016. gada juridiskā analīze par Stambulas konvenciju"
+title: "Baibas Rudevskas 2016. gada juridiskā analīze par Stambulas konvenciju"
 tags:
     - Stambulas konvencija"
     - "sieviešu tiesības"
