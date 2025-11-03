@@ -7,6 +7,8 @@ tags:
     - "sieviešu aizsargāšana"
 ---
 
+_Piezīme._ Raksts var tikt precizēts.
+
 Šodien Saeima iesniedza alternatīvu Stambulas konvencijai - Deklarācija par vardarbības pret sievietēm un vardarbības ģimenē novēršanu un izskaušanu [^1]. Šis raksts ir mana kritika.
 
 Izlasot šo jauno deklarāciju var secināt, ka tā ir burtiski pārrakstīta Stabulas konvencija, kurā ir izņemts viss, kas saistīts ar socioloģiju vai starptautisko uzskaiti.
@@ -18,13 +20,9 @@ Kā jau ir redzams pašā pirmajā rindkopā: "uzsverot, ka līdz ar Latvijas Re
 
 2. Deklarācija atsaucas uz Eiropas Cilvēktiesību tiesas praksi, bet ļoti iespējams, ka atšķirībā no Stambulas konvencijas pieņemšanas Latvijas valsts politiķi ar šādu deklarāciju var apiet Eiropas Cilvēktiesības tiesas lēmumus. Tādā veidā speciāli un ļaunprātīgi neatzīt sievietes, kas atbilst konservatīvo priekšstatam, kas ir sieviete. Burtiski pametot transsievietes zem vilciena un pat apgriežot vardarbības terminu otrādāk - tā teikt, transsieviešu eksistence ir vardarbība.
 
-3. Par laimi 2.3. punkta tiek noteikts dzimumorientācijas aizliegums (lai arī ko dzimumorientācija nozīmētu), bet turpat tālāk 2.4. tiek izdzēsts.<br><br>
-Tezaurs saka, ka dzimumorientācija ir "Indivīda vīrietība vai sievietība; parasti ar to saprot vairāk nekā tikai spēju vai sliecību veikt attiecīgo lomu bērnrades procesā; dzimumievirze." [^2]<br><br>
-Tad es varu secināt, ka transsievietēm aizsardzības nebūs.
 
-
-4. Tiek izmesti ārā socioloģijas secinājumi, uz kuriem Stambulas konvencija atsaucās. Tā vietā 4. punktā tiek noteikti pasākumi, lai "veicinātu izmaiņas sociālās vides un kultūras izveidotajos sabiedrības uzvedības modeļos".<br><br>
-Tā paša punkta sākumā tiek noteikts "tiesību normas, kas detalizēti nosaka principus, darbības mehānismus, uzstādījumus, pienākumus un pasākumus", kas izklausās pēc politiskās valdības diktāta. Problēma ir tajā, ka labējie politiskie spēki neatdzīst dzimuma minoritātes, tad attiecīgi šajā likumā, ko viņi piedāvā ir iespēja speciāli diskriminēt in ierobežot dzimuma izpausmes atkarībā no tā, ko valdība nosaka.<br><br>
+3. Tiek izmesti ārā socioloģijas secinājumi, uz kuriem Stambulas konvencija atsaucās. Tā vietā 4. punktā tiek noteikti pasākumi, lai "veicinātu izmaiņas sociālās vides un kultūras izveidotajos sabiedrības uzvedības modeļos".<br><br>
+Tā paša punkta sākumā tiek noteikts "tiesību normas, kas detalizēti nosaka principus, darbības mehānismus, uzstādījumus, pienākumus un pasākumus", kas izklausās pēc politiskās valdības diktāta. Problēma ir tajā, ka labējie politiskie spēki neatzīst dzimuma minoritātes, tad attiecīgi šajā likumā, ko viņi piedāvā ir iespēja speciāli diskriminēt un ierobežot dzimuma izpausmes atkarībā no tā, ko valdība nosaka.<br><br>
 Reizē arī ir jāpiemin, ka, ja valdība kontrolēs to, kādi ir principi un mehānismi, tad ir pilnībā iespējams tas, ka tiek cenzēta informācija par minoritātēm.<br><br>
 Es esmu viens no tiem, kas uzskata, ka valdībai nevajadzētu noteikt izglītības sistēmas saturu vai medicīniskās procedūras, kuras var veikt valstī, - tas būtu jādeleģē profesionāliem.
 
