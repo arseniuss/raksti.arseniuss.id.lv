@@ -7,7 +7,6 @@ tags:
     - "sieviešu aizsargāšana"
 ---
 
-_Piezīme._ Raksts var tikt precizēts.
 
 Šodien Saeima iesniedza alternatīvu Stambulas konvencijai - Deklarācija par vardarbības pret sievietēm un vardarbības ģimenē novēršanu un izskaušanu [^1]. Šis raksts ir mana kritika.
 
@@ -33,6 +32,8 @@ Es esmu viens no tiem, kas uzskata, ka valdībai nevajadzētu noteikt izglītīb
 
 
 Kopumā var droši teikt, ka Deklarācija ir burtiski Stambulas konvencijas kopija bez socioloģijas. Tā ir rakstīta konservatīvā garā vispārīgi par vardarbības ierobežošanu pret sievietēm. Tā pilnībā neņem vērā cilvēkus, kas tiek uztverti kā sievietes un pret kuriem vadarbība notiek daudz biežāk un smagāk.
+
+_Piezīme._ Raksts var tikt precizēts.
 
 ---
 

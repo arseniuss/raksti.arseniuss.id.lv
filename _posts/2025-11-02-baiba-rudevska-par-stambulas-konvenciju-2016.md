@@ -7,8 +7,6 @@ tags:
     - "sieviešu aizsargāšana"
 ---
 
-_Piezīme._ Raksts var tikt precizēts.
-
 Nesen uzgāju dokumentus, kurus 2016. gadā Tieslietu ministrija pieprasīja dažādām organizācijām, lai izvērtētu, vai Latvijai ir nepieciešams parakstīt Eiropas Padomes Konvenciju par vardarbības pret sievietēm un vardarbības ģimenē novēršanu un apkarošanu jeb Stambulas konvenciju [^1]. Saistībā ar to tolaik tika noslēgts līgums ar Zvērinātu advokātes Ingas Kačevskas biroju, lai izstrādātu juridisko analīzi Stambulas konvencijai.
 
 Dr.iur. Baiba Rudevska 2016. gadā 25. aprīlī iesniedza juridisku analīzi "Par Eiropas Padomes Konvencijas par vardarbības pret sievietēm un vardarbības ģimenē novēršanu un apkarošanu iespējamo ietekmi uz Latvijas tiesību sistēmu" [^2].
@@ -149,6 +147,8 @@ No Jaunzemas atzinumiem īpaši jāuzsver šis rakstītais:
 
 > Ministrijas ieskatā informatīvā ziņojuma pielikumā lietotā valoda ir pretrunā valsts valodas lietošanas likumiem, atspoguļojot juridisku necieņu pret normatīvajos aktos oficiāli apstiprināto terminoloģiju. Piemēram, nav skaidrs, kāpēc Eiropas Savienības aģentūras Eiropas Dzimumu līdztiesības institūta (European Institute for Gender Equality) nosaukums šajā dokumentā tiek tulkots kā „Eiropas Gender-vienlīdzības Institūts”, bet EP Dzimumu līdztiesības stratēģija 2014.-2017.gadam tiek tulkota kā „Eiropas Padomes „Gender”- vienlīdzības stratēģija 2014.-2017.gadam”. Tāpat visā informatīvā ziņojuma pielikuma tekstā tiek lietots jēdziens “gender vienlīdzība”, kāda latviešu valodā nav un kas netiek lietots politikas plānošanas dokumentos. Iespējams, šīs valodas problēmas autoriem ir radušās, kā argumentus apgalvojumiem izmantojot sekundārus avotus un savu nostāju pamatojot ar internetā atrodamiem rakstiem krievu valodā par vārda “гендер” lietošanas problemātiku Krievijas Federācijas normatīvajos aktos un kādas šīs valsts nevalstiskas organizācijas skatījumu uz to (sk.18.-19.lpp.). Turklāt tālāk informatīvā ziņojuma pielikumā tiek apšaubīts Valsts valodas centra veiktais Stambulas konvencijas un tās paskaidrojošā ziņojuma tulkojums (22.-23.lpp.), kas 2015.gadā tika saskaņots ar visām ministrijām, tai skaitā ar Tieslietu ministriju.
 
+_Piezīme._ Raksts var tikt precizēts.
+
 ---
 
 
@@ -167,6 +167,7 @@ No Jaunzemas atzinumiem īpaši jāuzsver šis rakstītais:
 [^7]: Saeima, Bērnu tiesību aizsardzības likums, 22.07.1998., [saite](https://likumi.lv/doc.php?id=49096)
 
 [^8]: Eiropas Cilvēktiesību tiesa, Kjeldsen, Busk Madsen and Pedersen pret Dāniju, 07.12.1976. [teksts angliski](https://hudoc.echr.coe.int/eng?i=001-57509)
+
 [^9]: Eiropas Cilvēktiesību tiesa, Folgerø un citi pret Norvēģiju, 29.06.2007, [teksts angliski](https://hudoc.echr.coe.int/eng?i=001-81356 )
 
 [^10]: Merriam-Webster, feminism, [saite](https://www.merriam-webster.com/dictionary/feminism)
