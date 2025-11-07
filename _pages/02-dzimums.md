@@ -62,6 +62,10 @@ _Piezīme_. Tekstā var būt neprecizītātes un nepieciešamas atsauksmes.
 
 7. <par seksualitāti>
 
+# Transseksualitāte
+
+
+
 
 [^i1]: https://web.archive.org/web/20240104190226/https://www.ohchr.org/en/sexual-orientation-and-gender-identity/intersex-people
 

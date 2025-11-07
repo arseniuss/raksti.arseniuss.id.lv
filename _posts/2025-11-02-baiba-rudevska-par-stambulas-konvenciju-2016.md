@@ -147,6 +147,10 @@ No Jaunzemas atzinumiem īpaši jāuzsver šis rakstītais:
 
 > Ministrijas ieskatā informatīvā ziņojuma pielikumā lietotā valoda ir pretrunā valsts valodas lietošanas likumiem, atspoguļojot juridisku necieņu pret normatīvajos aktos oficiāli apstiprināto terminoloģiju. Piemēram, nav skaidrs, kāpēc Eiropas Savienības aģentūras Eiropas Dzimumu līdztiesības institūta (European Institute for Gender Equality) nosaukums šajā dokumentā tiek tulkots kā „Eiropas Gender-vienlīdzības Institūts”, bet EP Dzimumu līdztiesības stratēģija 2014.-2017.gadam tiek tulkota kā „Eiropas Padomes „Gender”- vienlīdzības stratēģija 2014.-2017.gadam”. Tāpat visā informatīvā ziņojuma pielikuma tekstā tiek lietots jēdziens “gender vienlīdzība”, kāda latviešu valodā nav un kas netiek lietots politikas plānošanas dokumentos. Iespējams, šīs valodas problēmas autoriem ir radušās, kā argumentus apgalvojumiem izmantojot sekundārus avotus un savu nostāju pamatojot ar internetā atrodamiem rakstiem krievu valodā par vārda “гендер” lietošanas problemātiku Krievijas Federācijas normatīvajos aktos un kādas šīs valsts nevalstiskas organizācijas skatījumu uz to (sk.18.-19.lpp.). Turklāt tālāk informatīvā ziņojuma pielikumā tiek apšaubīts Valsts valodas centra veiktais Stambulas konvencijas un tās paskaidrojošā ziņojuma tulkojums (22.-23.lpp.), kas 2015.gadā tika saskaņots ar visām ministrijām, tai skaitā ar Tieslietu ministriju.
 
+
+_Piebilde. 07.11.2025._ Iesaku arī izlasīt Dr.iur. Kristīnes Dupātes rakstu [^16], kas norāda par uz, ka Rudevska ir izmantojusi plašu izpratni no dažādām filozofijas un socioloģijas sfērām, kas nemaz nav sasaistāms ar juridisko praksi. Manuprāt, lai jauktu gaisu.
+
+
 _Piezīme._ Raksts var tikt precizēts.
 
 ---
@@ -181,6 +185,8 @@ _Piezīme._ Raksts var tikt precizēts.
 [^14]: Oficiālās statistikas portāls, [saite](https://stat.gov.lv/lv/statistikas-temas/labklajibas-un-vienlidzibas-raditaji/dzimumlidztiesiba/6297-dzimumu-lidztiesiba)
 
 [^15]: Latvijas Republikas Satvermes tiesa, Spriedums, Nr. 2020-39-02, 04.06.2021., [pilns teksts](https://www.satv.tiesa.gov.lv/wp-content/uploads/2020/08/2020-39-02_Spriedums.pdf)
+
+[^16]: Jurista vārda, Konvencija atbilst Satversmei un Latvijas tiesību sistēmai, Dr.iur. Kristīne Dupate, 07.06.2016, [saite](https://m.juristavards.lv/zurnals/268747-konvencija-atbilst-satversmei-un-latvijas-tiesibu-sistemai/)
 
 
 
