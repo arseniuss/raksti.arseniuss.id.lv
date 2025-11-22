@@ -187,6 +187,12 @@ Tiesa gan šeit es vēlos piekabināt, ka es gan esmu sastapies ar transpersonā
 
 ---
 
+_Piezīme._ Raksts var tikt precizēts un papildināts.
+
+Veltījums transpersonu atceres dienā. Rakstu drīkst brīvi citēt balstoties uz godprātīgu interpretāciju.
+
+---
+
 [^1]: X.com, Nils S. Konstantinovs @lasitajs_nr1, [saite](https://x.com/lasitajs_nr1/status/1988602743913693335?s=20), skatīts 15.11.2025
 
 [^2]: Interneta žurnāls Puaro, Nils Sakss Konstantinovs, Nils Sakss Konstantinovs. Par Māra Taubes ekspertīzi bērnu dzimuma jautājumos un interviju LR1 [saite](https://puaro.lv/tiesiskums/nils-sakss-konstantinovs-par-mara-taubes-ekspertizi-bernu-dzimuma-jautajumos-un-interviju-lr1/), skatīts 15.11.2025.
