@@ -71,9 +71,9 @@ Romiešu laikos Gallī kults ar vīriešiem, kas sevi kastrēja un ģērbās sie
 
 12\. gadsimtā m.ē. Bingenas Hildegardas sieviešu kareives, kas dzīvoja arī kā vīrieši. ([Matthew Paris, Chronica Majora, c.1250])
 
-13\. gadsimtā m.ē. Žanna d'Arka ([Warner, Joan of Arc: The Image of Female Heroism, 1981])
-
 14\. gadsimtā m.ē. Kristīne no Pizānas (angl. _Christine de Pizan_) aprakstīja vairākas sievietes, kas veica vīriešu lomas sabiedrībā ([Pizan, The Book of the City of Ladies, 1405])
+
+15\. gadsimtā m.ē. Žanna d'Arka ([Warner, Joan of Arc: The Image of Female Heroism, 1981])
 
 15\. gadsimtā m.ē. Katalīna de Erauzo (angl. _Catalina de Erauso_), kuras dzīve ir detalizēti aprakstīta par to, ka viņa kļuva par kareivi un dzīvoja kā vīrietis ([Erauso, Memoirs of Catalina de Erauso, 1620s])
 
